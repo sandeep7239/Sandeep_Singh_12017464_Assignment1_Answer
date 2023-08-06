@@ -1918,7 +1918,7 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@storybook/addon-actions@^6.5.13", "@storybook/addon-actions@6.5.16":
+"@storybook/addon-actions@^6.5.16", "@storybook/addon-actions@6.5.16":
   version "6.5.16"
   resolved "https://registry.npmjs.org/@storybook/addon-actions/-/addon-actions-6.5.16.tgz"
   integrity sha512-aADjilFmuD6TNGz2CRPSupnyiA/IGkPJHDBTqMpsDXTUr8xnuD122xkIhg6UxmCM2y1c+ncwYXy3WPK2xXK57g==
@@ -2056,7 +2056,7 @@
     polished "^4.2.2"
     ts-dedent "^2.2.0"
 
-"@storybook/addon-links@^6.5.13":
+"@storybook/addon-links@^6.5.16":
   version "6.5.16"
   resolved "https://registry.npmjs.org/@storybook/addon-links/-/addon-links-6.5.16.tgz"
   integrity sha512-P/mmqK57NGXnR0i3d/T5B0rIt0Lg8Yq+qionRr3LK3AwG/4yGnYt4GNomLEknn/eEwABYq1Q/Z1aOpgIhNdq5A==
@@ -2712,7 +2712,7 @@
     react-docgen-typescript "^2.1.1"
     tslib "^2.0.0"
 
-"@storybook/react@^6.5.13", "@storybook/react@>=5.2":
+"@storybook/react@^6.5.16", "@storybook/react@>=5.2":
   version "6.5.16"
   resolved "https://registry.npmjs.org/@storybook/react/-/react-6.5.16.tgz"
   integrity sha512-cBtNlOzf/MySpNLBK22lJ8wFU22HnfTB2xJyBk7W7Zi71Lm7Uxkhv1Pz8HdiQndJ0SlsAAQOWjQYsSZsGkZIaA==
